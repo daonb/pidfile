@@ -1,4 +1,4 @@
-module github.com/mingcheng/pidfile
+module github.com/daonb/pidfile
 
 go 1.12
 
